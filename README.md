@@ -36,6 +36,7 @@ Navigation of the plane is done by a range of controllers:
      > **important :** if you are running the FlightGear simulator and Android emulator on that same computer - **do not** use your localhost IP (127.0.0.1)
   * Enter in port number 6400
   * Press 'connect' button
+  * Make sure you enter in the correct IP and port number
 * You are now connected to the flight simulator !
 * You can now navigate your flight with the Sliders and JoyStick ! AutoPilot (in top bar of the simulator) can help you start out.
 
