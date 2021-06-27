@@ -50,7 +50,7 @@ UML diagram of the projects structure showing the MVVM architecture used in the 
 ![Image of UML](https://github.com/ashira-major/Android-FlightApp/blob/c7dc3bd50d49d11d93ccad93974e2e576b7811f0/Screen%20Shot%202021-06-27%20at%2020.08.54.png)
 The separation of logic and design is visible in the UML.
 
-https://youtu.be/AGYCmEJU_LM
-[Demo of the app running and further explanation of the project]()
+[Demo of the app running ](https://youtu.be/AGYCmEJU_LM)
+[Presentation of the project](https://github.com/ashira-major/Android-FlightApp/blob/5b4153448b25de44ce4c154710ae334934b04abd/FlightApp.pdf)
 
 **Enjoy !**
