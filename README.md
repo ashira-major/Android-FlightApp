@@ -47,7 +47,7 @@ Navigation of the plane is done by a range of controllers:
 ## Documentation
 
 UML diagram of the projects structure showing the MVVM architecture used in the project :
-
+![Image of UML](https://github.com/ashira-major/Android-FlightApp/blob/c7dc3bd50d49d11d93ccad93974e2e576b7811f0/Screen%20Shot%202021-06-27%20at%2020.08.54.png)
 The separation of logic and design is visible in the UML.
 
 https://youtu.be/AGYCmEJU_LM
